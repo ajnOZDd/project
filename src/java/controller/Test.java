@@ -2,6 +2,7 @@ package controller;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("ok");
+        string n=1 ;
+        System.out.println(n);
     }
 }
